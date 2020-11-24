@@ -1,2 +1,2 @@
 # pmt
-A Command-Line Interface for pattern matching
+Command-Line Interface for pattern matching
