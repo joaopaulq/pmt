@@ -1,2 +1,2 @@
 # pmt
-Command-Line Interface for pattern matching
+Command-Line Interface for exact and approximate pattern matching.
