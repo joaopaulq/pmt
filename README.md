@@ -1,7 +1,7 @@
 # pmt
 A command-line interface for pattern matching.
 
-## How to use
+## Usage
 ```
 pmt [OPTIONS] file.txt pat [pat...]
 ```
