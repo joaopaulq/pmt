@@ -3,7 +3,7 @@ A command-line interface for pattern matching.
 
 ## Usage
 ```
-pmt [OPTIONS] file.txt pat [pat...]
+pmt [OPTIONS] foo.txt pat [pat]*
 ```
 
 ## Options
