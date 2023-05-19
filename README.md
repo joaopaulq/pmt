@@ -1,5 +1,4 @@
 # pmt
-A command-line interface for pattern matching.
 
 ## Usage
 ```
