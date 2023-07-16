@@ -1,12 +1,12 @@
 # pmt
 
-## Usage
+## usage
 ```
 pmt [OPTIONS] foo.txt pat [pat]*
 ```
 
-## Options
-|  Algorithm | Option | Pattern | Match    | Paper |
+## pptions
+|  algorithm | option | pattern | match    | paper |
 |------------|--------|---------|----------|-------|
 | Knuth-Morris-Pratt | `-k` | Single | Exact | [Fast Pattern Matching in Strings](https://www.cin.ufpe.br/~paguso/courses/if767/bib/KMP_1977.pdf) |
 | Boyer-Moore | `-b` | Single | Exact | [A Fast String Searching Algorithm](https://www.cin.ufpe.br/~paguso/courses/if767/bib/Boyer_1977.pdf) |
