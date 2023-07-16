@@ -5,7 +5,7 @@
 pmt [OPTIONS] foo.txt pat [pat]*
 ```
 
-## pptions
+## options
 |  algorithm | option | pattern | match    | paper |
 |------------|--------|---------|----------|-------|
 | Knuth-Morris-Pratt | `-k` | Single | Exact | [Fast Pattern Matching in Strings](https://www.cin.ufpe.br/~paguso/courses/if767/bib/KMP_1977.pdf) |
